@@ -10,7 +10,8 @@
         "vscode": {
             "extensions": [
                 "vitaliymaz.vscode-svg-previewer",
-                "redhat.vscode-xml"
+                "redhat.vscode-xml",
+                "chocolatedesue.modern-pdf-preview"                
             ]
         }
     }
